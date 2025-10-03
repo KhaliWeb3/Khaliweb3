@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khalifa  
 
-**Entrepreneur & Web3 Builder | Turning African Innovation into Global Solutions**  
+**Entrepreneur & Web3 Builder**
 
 I’m an entrepreneur, node validator, and innovator passionate about creating decentralized tools, scalable ventures, and future-proof technologies.  
 
