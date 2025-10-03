@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Khalifa  
 
-<!--
-**KhaliWeb3/Khaliweb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Entrepreneur & Web3 Builder | Turning African Innovation into Global Solutions**  
 
-Here are some ideas to get you started:
+I’m an entrepreneur, node validator, and innovator passionate about creating decentralized tools, scalable ventures, and future-proof technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💜 Support My Work  
+If you find value in my projects and contributions, you’re welcome to support my work:
+
+- **ETH / USDC / USDT:** 0x768fd51aff0cd7e7b585678d06437a1e6f0af786
+- **BTC:** bc1p9rcf57mjz9360kj3s0d8rwk3a4qayy3kf325mveg7345q34sr3yqy94489
+
+---
+
+## 📫 Connect With Me  
+- 📧 Email: KhaliWeb3@outlook.com  
+- 🐦 Twitter: https://x.com/KhaliWeb3
+- 💼 LinkedIn:  
